@@ -16,3 +16,7 @@
 
 #Ignore todos
 *.todo
+
+#Igone sublimetext project file and workspace
+*.sublime-project
+*.sublime-workspace
